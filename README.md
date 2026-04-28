@@ -27,15 +27,15 @@
 ---
 
 ## 📊 آمار گیت‌هاب من
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onabra&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onabra&layout=compact&theme=tokyonight)
 
 > 🔁 به‌جای `USERNAME`، یوزرنیم گیت‌هابت رو قرار بده
 
 ---
 
 ## 🔥 فعالیت‌ها و کامیت‌ها
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=onabra&theme=tokyonight)
 
 ---
 
