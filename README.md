@@ -14,13 +14,34 @@
 
 ## 🛠 مهارت‌ها و تکنولوژی‌ها
 ### 💡 زبان‌ها
+
+📱 Mobile Development
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![iOS](https://img.shields.io/badge/-iOS-000?&logo=Apple)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
+
+🧠 Backend & Scripting
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+
+🌐 Frontend Development
+![React](https://img.shields.io/badge/-React.js-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+
+🖥 Desktop & System
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
+
+⚡ Core Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
+
 ### ⚙️ فریم‌ورک‌ها و ابزارها
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
@@ -40,12 +61,14 @@
 ---
 
 ## 🌐 شبکه‌های اجتماعی
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](لینک-لینکدین)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](لینک-اینستاگرام)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](لینک-توییتر)
-[![Website](https://img.shields.io/badge/Website-000?logo=google-chrome&logoColor=white)](لینک-وبسایت)
+[![Telegram](https://img.shields.io/badge/Telegram-000?logo=telegram&logoColor=white)](https://t.me/on_abra)
+[![Rubika](https://img.shields.io/badge/Rubika-000?logo=messenger&logoColor=white)](https://rubika.ir/on_abra)
+[![Bale](https://img.shields.io/badge/Bale-000?logo=chat&logoColor=white)](https://ble.ir/onabra)
+[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white)](mailto:hossein.ghavisheh@gmail.com
+)
+[![Website](https://img.shields.io/badge/Website-000?logo=google-chrome&logoColor=white)](microprogram.ir)
 
 ---
 
-## ✨ جمله پایانی
+## ✨ 
 > «کد تمیز، ذهن تمیز می‌سازد.» 🚀
