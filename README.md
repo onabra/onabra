@@ -5,15 +5,13 @@
 ---
 
 ## 🧑‍💻 درباره من
-- 🔭 در حال کار روی: **[نام پروژه یا حوزه کاری]**
-- 🌱 در حال یادگیری: **[تکنولوژی‌ها / مهارت‌های جدید]**
-- 💬 تخصص در: **[زمینه تخصصی شما]**
-- 📫 راه ارتباطی: **[ایمیل شما]**
+👤 حسین غویشه
+Full‑Stack Developer
 
 ---
 
 ## 🛠 مهارت‌ها و تکنولوژی‌ها
-### 💡 زبان‌ها
+
 
 📱 Mobile Development
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
@@ -51,7 +49,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onabra&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onabra&layout=compact&theme=tokyonight)
 
-> 🔁 به‌جای `USERNAME`، یوزرنیم گیت‌هابت رو قرار بده
 
 ---
 
@@ -64,9 +61,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000?logo=telegram&logoColor=white)](https://t.me/on_abra)
 [![Rubika](https://img.shields.io/badge/Rubika-000?logo=messenger&logoColor=white)](https://rubika.ir/on_abra)
 [![Bale](https://img.shields.io/badge/Bale-000?logo=chat&logoColor=white)](https://ble.ir/onabra)
-[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white)](mailto:hossein.ghavisheh@gmail.com
+[![Email](https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white)](hossein.ghavisheh@gmail.com
 )
-[![Website](https://img.shields.io/badge/Website-000?logo=google-chrome&logoColor=white)](microprogram.ir)
+[![Website](https://img.shields.io/badge/Website-000?logo=google-chrome&logoColor=white)](https://microprogram.ir/)
 
 ---
 
