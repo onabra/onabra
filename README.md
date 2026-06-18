@@ -1,70 +1,68 @@
-# 👋 سلام، حسین غویشه هستم  
+# Hi 👋 I'm Hossein Ghavisheh
 
-💻 توسعه‌دهنده نرم‌افزار | 🚀 علاقه‌مند به یادگیری مداوم | 🌱 در حال رشد  
-
----
-
-## 🧑‍💻 درباره من
-👤 حسین غویشه
-Full‑Stack Developer
+### 🚀 Full‑Stack Developer
 
 ---
 
-## 🛠 مهارت‌ها و تکنولوژی‌ها
+## 👨‍💻 About Me
 
-
-📱 Mobile Development
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![iOS](https://img.shields.io/badge/-iOS-000?&logo=Apple)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
-
-🧠 Backend & Scripting
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
-
-🌐 Frontend Development
-![React](https://img.shields.io/badge/-React.js-000?&logo=React)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-
-🖥 Desktop & System
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
-
-⚡ Core Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-
-
-### ⚙️ فریم‌ورک‌ها و ابزارها
-
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+- 💼 Full‑Stack Software Developer  
+- 🧠 Focused on Clean Architecture & Scalable Systems  
+- ⚙️ Backend Specialist in **ASP.NET Core & C#**  
+- 📱 Mobile Developer (Android & React Native)  
+- 🎮 Unity Game Developer  
+- 🌱 Lifelong Learner  
 
 ---
 
-## 📊 آمار گیت‌هاب من
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onabra&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onabra&layout=compact&theme=tokyonight)
+## 🛠 Tech Stack
 
+### 🔷 Backend
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-111?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-111?logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111?logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111?logo=python&logoColor=white)
+
+### 🔷 Frontend
+![React](https://img.shields.io/badge/React-111?logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?logo=typescript&logoColor=white)
+
+### 🔷 Mobile
+![Android](https://img.shields.io/badge/Android-111?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-111?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111?logo=java&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-111?logo=react&logoColor=white)
+
+### 🔷 Game Development
+![Unity](https://img.shields.io/badge/Unity-111?logo=unity&logoColor=white)
+
+### 🔷 Desktop & System
+![C++](https://img.shields.io/badge/C++-111?logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-111?logo=qt&logoColor=white)
+
+### 🔷 Tools
+![Docker](https://img.shields.io/badge/Docker-111?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111?logo=git&logoColor=white)
 
 ---
 
-## 🔥 فعالیت‌ها و کامیت‌ها
-![GitHub Streak](https://streak-stats.demolab.com?user=onabra&theme=tokyonight)
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onabra&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onabra&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=onabra&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 شبکه‌های اجتماعی
-[![Telegram](https://img.shields.io/badge/Telegram-000?logo=telegram&logoColor=white)](https://t.me/on_abra)
-[![Rubika](https://img.shields.io/badge/Rubika-000?logo=messenger&logoColor=white)](https://rubika.ir/on_abra)
-[![Bale](https://img.shields.io/badge/Bale-000?logo=chat&logoColor=white)](https://ble.ir/onabra)
-📫 Email: [hossein.ghavisheh@gmail.com](mailto:hossein.ghavisheh@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000?logo=google-chrome&logoColor=white)](https://microprogram.ir/)
+## 🌍 Connect With Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-111?logo=telegram&logoColor=white)](https://t.me/on_abra)
+[![Website](https://img.shields.io/badge/Website-111?logo=google-chrome&logoColor=white)](https://microprogram.ir/)
+[![Email](https://img.shields.io/badge/Email-111?logo=gmail&logoColor=white)](mailto:hossein.ghavisheh@gmail.com)
 
 ---
 
-## ✨ 
-> «کد تمیز، ذهن تمیز می‌سازد.» 🚀
+## ✨ Philosophy
+
+> Clean Code reflects a Clear Mind.
